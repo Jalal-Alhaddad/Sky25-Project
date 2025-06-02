@@ -16,4 +16,4 @@
 
 ## External links
 
-[Snippets in Visual Studio Code]([https://code.visualstudio.com/docs/editing/userdefinedsnippets])
+[Snippets in Visual Studio Code](https://code.visualstudio.com/docs/editing/userdefinedsnippets)
