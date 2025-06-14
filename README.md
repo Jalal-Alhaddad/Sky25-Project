@@ -13,3 +13,10 @@
 - [Implement Data & State](./09.%20Implement%20Data%20&%20State.md)
 - [Implement UI](./10.%20Implement%20UI.md)
 - [Implement Offline](./11.%20Implement%20Offline.md)
+
+## External links
+
+- [Snippets in Visual Studio Code](https://code.visualstudio.com/docs/editing/userdefinedsnippets)
+- [react.dev](https://react.dev/)
+- [Material Design](https://m3.material.io/)
+- [React Native Paper](https://reactnativepaper.com/)
